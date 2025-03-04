@@ -1,7 +1,7 @@
-Feature: Basic functionality for freecash works fine
+Feature: Added country Sweden can be selected in Country dropdown and saved for account
 
 
-  Scenario: Login without accepting T&С will raise an error
+  Scenario: Sweden can be selected in country dropdown during sign-up and account can be created with Sweden country succesfully
     Given I go to circula main page
     And I accept Cookies
     And I provide random email
