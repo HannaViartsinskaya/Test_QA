@@ -11,7 +11,7 @@ For Reporting tool I used Mocha - Results you can find under the summary in exec
 2. [Gherkin](https://cucumber.io/docs/gherkin/reference)
 
 ## Running on GitHub Actions
-1. Go to https://github.com/HannaViartsinskaya/E2E-test/actions/workflows/manual_run.yml
+1. Go to https://github.com/HannaViartsinskaya/Test_QA/actions/workflows/manual_run.yml
 2. Click on [Run workflow] button
 
 ## Running locally
